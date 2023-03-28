@@ -1,0 +1,2 @@
+# Brandlystic
+Shopify theme
